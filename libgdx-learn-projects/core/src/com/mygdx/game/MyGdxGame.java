@@ -25,6 +25,8 @@ public class MyGdxGame extends ApplicationAdapter {
 	private Sound dropSound;
 	private Music rainMusic;
 	
+	//This is me
+	
 	private OrthographicCamera camera;
 	private SpriteBatch batch;
 	
