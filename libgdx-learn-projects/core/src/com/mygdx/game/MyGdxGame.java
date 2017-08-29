@@ -39,6 +39,8 @@ public class MyGdxGame extends ApplicationAdapter {
 	
 	BitmapFont font;
 	
+	// a comment. 
+	
 	@Override
 	public void create() {
 		// load drop bucket classes
